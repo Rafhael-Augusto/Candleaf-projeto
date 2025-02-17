@@ -27,6 +27,8 @@ export const NavLinks = styled.section`
   text-align: center;
   align-items: center;
   gap: 240px;
+
+  border-bottom: 1px solid rgba(86, 178, 128, 0.25);
 `;
 
 export const Image = styled.img<ContainerProps>`

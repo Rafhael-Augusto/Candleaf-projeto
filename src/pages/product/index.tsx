@@ -1,3 +1,4 @@
+import Footer from "./footer";
 import Header from "./header";
 import Info from "./info";
 
@@ -6,6 +7,7 @@ const Product = () => {
     <>
       <Header />
       <Info />
+      <Footer />
     </>
   );
 };
